@@ -1,0 +1,264 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConsoleApp12/1.0.0": {
+        "dependencies": {
+          "Selenium.Support": "4.33.0",
+          "Selenium.WebDriver.ChromeDriver": "137.0.7151.11900",
+          "SeleniumExtras.WaitHelpers": "1.0.2",
+          "chromium.win-x86": "2025.6.16"
+        },
+        "runtime": {
+          "ConsoleApp12.dll": {}
+        }
+      },
+      "chromium.win-x86/2025.6.16": {
+        "runtimeTargets": {
+          "runtimes/win-x86/native/139.0.7243.0.manifest": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x86/native/D3DCompiler_47.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "10.0.26100.3323"
+          },
+          "runtimes/win-x86/native/First Run": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x86/native/IwaKeyDistribution/iwa-key-distribution.pb": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x86/native/IwaKeyDistribution/manifest.json": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x86/native/MEIPreload/manifest.json": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x86/native/MEIPreload/preloaded_data.pb": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x86/native/PrivacySandboxAttestationsPreloaded/manifest.json": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x86/native/PrivacySandboxAttestationsPreloaded/privacy-sandbox-attestations.dat": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x86/native/chrome.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "139.0.7243.0"
+          },
+          "runtimes/win-x86/native/chrome.exe": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "139.0.7243.0"
+          },
+          "runtimes/win-x86/native/chrome_100_percent.pak": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x86/native/chrome_200_percent.pak": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x86/native/chrome_elf.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "139.0.7243.0"
+          },
+          "runtimes/win-x86/native/chrome_proxy.exe": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "139.0.7243.0"
+          },
+          "runtimes/win-x86/native/chrome_pwa_launcher.exe": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "139.0.7243.0"
+          },
+          "runtimes/win-x86/native/chrome_wer.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "139.0.7243.0"
+          },
+          "runtimes/win-x86/native/dxcompiler.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "1.7.2308.16"
+          },
+          "runtimes/win-x86/native/dxil.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "101.7.2308.24"
+          },
+          "runtimes/win-x86/native/elevated_tracing_service.exe": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "139.0.7243.0"
+          },
+          "runtimes/win-x86/native/elevation_service.exe": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "139.0.7243.0"
+          },
+          "runtimes/win-x86/native/eventlog_provider.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "139.0.7243.0"
+          },
+          "runtimes/win-x86/native/icudtl.dat": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x86/native/libEGL.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "2.1.25614.0"
+          },
+          "runtimes/win-x86/native/libGLESv2.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "2.1.25614.0"
+          },
+          "runtimes/win-x86/native/locales/en-US.pak": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x86/native/notification_helper.exe": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "139.0.7243.0"
+          },
+          "runtimes/win-x86/native/resources.pak": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x86/native/setup.exe": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "139.0.7243.0"
+          },
+          "runtimes/win-x86/native/v8_context_snapshot.bin": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x86/native/vk_swiftshader.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "5.0.0.1"
+          },
+          "runtimes/win-x86/native/vk_swiftshader_icd.json": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x86/native/vulkan-1.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "1.4.318.0"
+          }
+        }
+      },
+      "Selenium.Support/4.33.0": {
+        "dependencies": {
+          "Selenium.WebDriver": "4.33.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/WebDriver.Support.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "Selenium.WebDriver/4.33.0": {
+        "runtime": {
+          "lib/net8.0/WebDriver.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "Selenium.WebDriver.ChromeDriver/137.0.7151.11900": {},
+      "SeleniumExtras.WaitHelpers/1.0.2": {
+        "dependencies": {
+          "Selenium.WebDriver": "4.33.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/SeleniumExtras.WaitHelpers.dll": {
+            "assemblyVersion": "1.0.2.0",
+            "fileVersion": "1.0.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp12/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "chromium.win-x86/2025.6.16": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-V7rXzgqoBeqmBVmcSPCOXMCozv0Rbxk67efuovKp6Y1CoRLSoih0VI+n3p7zALL6Bgo0uYERNZWhF208efWpUg==",
+      "path": "chromium.win-x86/2025.6.16",
+      "hashPath": "chromium.win-x86.2025.6.16.nupkg.sha512"
+    },
+    "Selenium.Support/4.33.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AsjM8PqJkueDBzw9StEHLLUq6bT7au9IY9mMLlwMxOdNYfu7PMJOqpHCMg2xVtLrUHGd6mADqrbFxcs9QWe6JA==",
+      "path": "selenium.support/4.33.0",
+      "hashPath": "selenium.support.4.33.0.nupkg.sha512"
+    },
+    "Selenium.WebDriver/4.33.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5dzwA1cMorwYWudX46zyeUqyZn48TZeCHbSERxbpKezGxZ8hMBpcL12XwG4RGUuQKGH8FiEOJOFK4eCE//uNpQ==",
+      "path": "selenium.webdriver/4.33.0",
+      "hashPath": "selenium.webdriver.4.33.0.nupkg.sha512"
+    },
+    "Selenium.WebDriver.ChromeDriver/137.0.7151.11900": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9hE8ab6l/UgZLnYMidpsCvGjUUDo6tqLgCpOiNOIE++iSxfA7jVnFDnzfI3ZemxG530b9ae3oXDIlNNCR9iejA==",
+      "path": "selenium.webdriver.chromedriver/137.0.7151.11900",
+      "hashPath": "selenium.webdriver.chromedriver.137.0.7151.11900.nupkg.sha512"
+    },
+    "SeleniumExtras.WaitHelpers/1.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-de7m30nkZZLkfCncYBdluUpM27AR/Vkk4kiA4HRQbV+fZI3ps4qGIeJCuj8TAMXdMfQik5Rno8xPnFBIod+ebg==",
+      "path": "seleniumextras.waithelpers/1.0.2",
+      "hashPath": "seleniumextras.waithelpers.1.0.2.nupkg.sha512"
+    }
+  }
+}
